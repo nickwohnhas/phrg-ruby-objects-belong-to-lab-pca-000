@@ -23,4 +23,4 @@ post.author.name
   # => "Hillary"
 ```
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-objects-belong-to-lab' title='Ruby Objects Belong To Lab'>Ruby Objects Belong To Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Ruby Objects Belong To Lab</p>
